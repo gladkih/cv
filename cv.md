@@ -11,7 +11,8 @@
 - html5, css, es6
 - pugjs, jade
 - postcss, sass
-- backbone, react и связанные технологии
+- backbone, react, vuejs и связанные технологии
+- graphql
 - gulp, grunt, webpack
 - npm, yarn
 - тестирование: mochajs
@@ -19,6 +20,12 @@
 
 
 ## Опыт работы
+
+### 2017 — удаленно
+#### Frontend. 
+Разработка админской части новостного портала.
+
+Участие в разработке https://agregatoreat.ru/
 
 ### 2013-2017 — «Трейдер»
 #### Frontend. 
